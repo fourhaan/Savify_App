@@ -40,7 +40,7 @@
                     android:layout_width="340dp"
                     android:layout_height="60dp"
                     android:id="@+id/login_password"
-                    android:inputType="text"
+                    android:inputType="textPassword"
                     android:layout_marginTop="20dp"
                     android:background="@drawable/maroon_border"
                     android:padding="8dp"
